@@ -1,0 +1,6 @@
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\ConversorBDGeografico\Catfood.Shapefile\bin\Debug\Catfood.Shapefile.XML
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\ConversorBDGeografico\Catfood.Shapefile\bin\Debug\Catfood.Shapefile.dll
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\ConversorBDGeografico\Catfood.Shapefile\bin\Debug\Catfood.Shapefile.pdb
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\ConversorBDGeografico\Catfood.Shapefile\obj\Debug\Catfood.Shapefile.csprojResolveAssemblyReference.cache
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\ConversorBDGeografico\Catfood.Shapefile\obj\Debug\Catfood.Shapefile.dll
+C:\Users\Tiago\Documents\Visual Studio 2015\Projects\ConversorBDGeografico\Catfood.Shapefile\obj\Debug\Catfood.Shapefile.pdb
